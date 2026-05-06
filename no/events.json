@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Community Meetup",
     "description": "Join us for drinks, stories, and dialogue about local initiatives.",
-    "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "img": "https://picsum.photos/200/300",
     "date": "March 15, 2024",
     "section": "Community"
@@ -12,7 +12,7 @@
     "id": "2",
     "title": "Art & Expression Workshop",
     "description": "Explore creative outlets through guided sessions and open sharing.",
-    "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "img": "https://picsum.photos/200/300",
     "date": "April 2, 2024",
     "section": "Workshop"
