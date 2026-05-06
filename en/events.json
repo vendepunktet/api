@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Community Meetup",
     "description": "Join us for drinks, stories, and dialogue about local initiatives.",
-    "url": "https://raw.githubusercontent.com/vendepunktet/apirefs/heads/main/news1.html",
+    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "img": "https://picsum.photos/200/300",
     "date": "March 15, 2024",
     "section": "Community"
