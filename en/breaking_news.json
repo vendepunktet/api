@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "Example News Story One",
+        "description": "News: AI.",
+        "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+        "img": "https://picsum.photos/200/300",
+        "date": "05-01-2026",
+        "section": "News"
+    },
+    {
+        "id": "2",
+        "title": "Editorial On Current Affairs",
+        "description": "Example news story two will appear second in-line and should appear next.",
+        "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+        "img": "https://picsum.photos/200/300",
+        "date": "04-30-2026",
+        "section": "Editorial"
+    },
+    {
+        "id": "3",
+        "title": "View Our Special Report",
+        "description": "The third example news story will appear here when called remotely.",
+        "url": "https://www.bing.com",
+        "img": "https://picsum.photos/200/300",
+        "date": "04-29-2026",
+        "section": "Special"
+    },
+    {
+        "id": "4",
+        "title": "Commentary From Guest Writer",
+        "description": "The fourth example news story will appear here when called remotely.",
+        "url": "https://www.bing.com",
+        "img": "https://picsum.photos/200/300",
+        "date": "04-18-2026",
+        "section": "Commentary"
+    },
+    {
+        "id": "5",
+        "title": "Example Latest News Story Five",
+        "description": "The fifth example news story will appear here when called remotely.",
+        "url": "https://www.bing.com",
+        "img": "https://picsum.photos/200/300",
+        "date": "04-14-2026",
+        "section": "News"
+    }
+]
