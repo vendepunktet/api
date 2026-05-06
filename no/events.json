@@ -1,18 +1,18 @@
 [
  {
     "id": "1",
-    "title": "Community Meetup",
-    "description": "Join us for drinks, stories, and dialogue about local initiatives.",
-    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
+    "title": "Fellesskapsmøte",
+    "description": "Bli med oss for drikke, historier og dialog om lokale initiativer.",
+    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/newsno.html",
     "img": "https://picsum.photos/200/300",
     "date": "March 15, 2024",
     "section": "Community"
   },
   {
     "id": "2",
-    "title": "Art & Expression Workshop",
-    "description": "Explore creative outlets through guided sessions and open sharing.",
-    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
+    "title": "Forskningpresentasjon",
+    "description": "Bli med oss for en presentasjon om den nyeste forskningen",
+    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/newsno.html",
     "img": "https://picsum.photos/200/300",
     "date": "April 2, 2024",
     "section": "Workshop"
