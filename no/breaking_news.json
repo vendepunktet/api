@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Eksempel Nyhetshistorie En",
         "description": "dette er en eksempelnyhet",
-        "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+        "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
         "img": "https://picsum.photos/id/237/200/300",
         "date": "05-01-2026",
         "section": "News"
@@ -12,7 +12,7 @@
         "id": "2",
         "title": "Eksempel Nyhetshistorie To",
         "description": "Edette er en eksempelnyhetshistorie for historie to.",
-        "url": "https://raw.githubusercontent.com/davecarrollno/tpbn/refs/heads/main/news1.html",
+        "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
         "img": "https://picsum.photos/200/300",
         "date": "04-30-2026",
         "section": "Editorial"
