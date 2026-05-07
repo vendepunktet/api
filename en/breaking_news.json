@@ -10,12 +10,12 @@
     },
     {
         "id": "2",
-        "title": "Editorial On Current Affairs",
-        "description": "Example news story two will appear second in-line and should appear next.",
+        "title": "A Caution Around AI Usage",
+        "description": "AI use is surging in popularity. What you need to know.",
         "url": "https://vendepunktet.org/en/mobile/cautions-of-ai_mob//",
         "img": "https://vendepunktet.org/wp-content/uploads/2026/05/great_ai.png?allow_lossy=1",
         "date": "04-30-2026",
-        "section": "Editorial"
+        "section": "News"
     },
     {
         "id": "3",
