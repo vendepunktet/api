@@ -1,12 +1,12 @@
 [
     {
         "id": "1",
-        "title": "Breaking News Story One",
-        "description": "Breaking News: AI.",
-        "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
-        "img": "https://picsum.photos/200/300",
-        "date": "05-01-2026",
-        "section": "News"
+        "title": "Minor Parties Deserve a Look",
+        "description": "Minor political parties in Norway are relatively ignored due to lack of media coverage but may offer the best way for voters to be heard.",
+        "url": "https://vendepunktet.org/en/mobile/minor-parties/",
+        "img": "https://vendepunktet8.wordpress.com/wp-content/uploads/2026/05/minor_politics.png",
+        "date": "05-13-2026",
+        "section": "Editorial"
     },
     {
         "id": "2",
