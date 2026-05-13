@@ -19,12 +19,12 @@
     },
     {
         "id": "3",
-        "title": "View Our Special Report",
-        "description": "The third example news story will appear here when called remotely.",
-        "url": "https://www.bing.com",
-        "img": "https://picsum.photos/200/300",
-        "date": "04-29-2026",
-        "section": "Special"
+        "title": "Pay to Play",
+        "description": "Is Norway sovereign or subject to foreign rule?",
+        "url": "https://vendepunktet.org/en/mobile/paytoplay/",
+        "img": "https://vendepunktet8.wordpress.com/wp-content/uploads/2026/05/paytoplay.png",
+        "date": "05-9-2026",
+        "section": "Editorial"
     },
     {
         "id": "4",
