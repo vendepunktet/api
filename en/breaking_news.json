@@ -28,12 +28,12 @@
     },
     {
         "id": "4",
-        "title": "Commentary From Guest Writer",
-        "description": "The fourth example news story will appear here when called remotely.",
-        "url": "https://www.bing.com",
-        "img": "https://picsum.photos/200/300",
-        "date": "04-18-2026",
-        "section": "Commentary"
+        "title": "The Dangers of the DSA",
+        "description": "The Digital Services Act of the EU may curtail free speech.",
+        "url": "https://vendepunktet.org/en/mobile/dsa_dangers/",
+        "img": "https://vendepunktet8.wordpress.com/wp-content/uploads/2026/05/dsa_removed.jpg",
+        "date": "05-21-2026",
+        "section": "Editorial"
     },
     {
         "id": "5",
