@@ -20,5 +20,15 @@
     "location": "55 Bowers Ave. Concord Ca",
     "section": "Workshop",
     "img": "https://picsum.photos/200/300"
+  },
+     "id": "3",
+    "title": "Election 2027 Conference",
+    "description": "We will be discussing the issues for election 2027 and interviewing candidates.",
+    "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
+    "date": "November 2, 2026",
+    "time": "16:00",
+    "location": "55 Bowers Ave. Concord Ca",
+    "section": "Meetup",
+    "img": "https://picsum.photos/200/300"
   }
 ]
