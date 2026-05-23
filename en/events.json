@@ -5,6 +5,7 @@
     "description": "Join us for drinks, stories, and dialogue about local initiatives.",
     "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "date": "March 15, 2024",
+    "time": "13:00",
     "section": "Community",
     "img": "https://picsum.photos/200/300"
   },
@@ -14,6 +15,7 @@
     "description": "Explore creative outlets through guided sessions and open sharing.",
     "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "date": "April 2, 2024",
+    "time": "16:00",
     "section": "Workshop",
     "img": "https://picsum.photos/200/300"
   }
