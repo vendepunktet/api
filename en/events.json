@@ -6,6 +6,7 @@
     "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "date": "July 15, 2026",
     "time": "13:00",
+    "location": "32 Redrock Ave. Santa Carla, NV",
     "section": "Community",
     "img": "https://picsum.photos/200/300"
   },
@@ -16,6 +17,7 @@
     "url": "https://raw.githubusercontent.com/vendepunktet/api/refs/heads/main/news1.html",
     "date": "August 2, 2026",
     "time": "16:00",
+    "location": "55 Bowers Ave. Concord Ca",
     "section": "Workshop",
     "img": "https://picsum.photos/200/300"
   }
