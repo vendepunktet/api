@@ -37,11 +37,11 @@
     },
     {
         "id": "5",
-        "title": "Example Latest News Story Five",
-        "description": "The fifth example news story will appear here when called remotely.",
-        "url": "https://www.bing.com",
-        "img": "https://picsum.photos/200/300",
-        "date": "04-14-2026",
-        "section": "News"
+        "title": "Media Bias: Far-Right",
+        "description": "The term 'far-right' is too often incorrectly used as a label designed to shape your opinion of a news story.",
+        "url": "https://vendepunktet.org/en/mobile/news_bias_far_right/",
+        "img": "https://vendepunktet8.wordpress.com/wp-content/uploads/2026/05/media_bias.png",
+        "date": "05-29-2026",
+        "section": "Editorial"
     }
 ]
